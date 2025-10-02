@@ -1,5 +1,4 @@
-# 💫 About Me:
-🧠 I'm currently working on<br>Projects that help me grow as a backend and AI developer, including a real-time code editor, an e-commerce API, and multi-agent AI experiments.<br>🤝 I'm looking to collaborate on<br>Open-source backend projects, LLM research tools, or anything that helps users solve real problems through tech.<br>🙋‍♀️ I'm looking for help with<br>Building scalable APIs, using FastAPI and Spring Boot more efficiently, and improving my DevOps skills.<br> I'm currently learning<br>LangGraph, prompt design, and system design for real-time apps.<br>💬 Ask me about<br>💼 ShopSphere – Spring Boot API with secure login and real-time shopping cart<br>📋 AccountingLedger – A simple but powerful budget tracker with full-stack auth<br>🍔 DELI-cious POS – My Java-based point-of-sale app with tax, receipt, and SQLite storage<br>⚡ Fun fact<br>I taught myself Python on YouTube, built my first web app in college, and now I’m preparing to join my dream company as a software intern!
+
 
 
 ## 🌐 Socials:
